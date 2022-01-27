@@ -208,11 +208,13 @@
 	color: #565e6a;
 }
 
-.Tech_Skills_list {
+.Tech_Skills_list,
+.Soft_Skills_list {
 	color: #ffffff;
 	padding: 0;
 	margin-left: 17px;
 }
+
 .Tech_Skills_item,
 .Soft_Skills_item {
 	font-style: normal;
